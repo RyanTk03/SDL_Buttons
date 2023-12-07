@@ -6,7 +6,7 @@ The SDL_Button library is a library for creating buttons with SDL.
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/your-username/SDL_Button.git
+git clone https://github.com/RyanTk03/SDL_Button.git
 ```
 
 3. Include the header files in your project:
