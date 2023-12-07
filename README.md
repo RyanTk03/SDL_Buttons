@@ -18,7 +18,7 @@ git clone https://github.com/your-username/SDL_Button.git
 Compile your project with the SDL_Button library source files:
 
 ```bash
-gcc main.c BTN.c _BTN_draw.c _BTN_mount.c -o main -lSDL2 -lSDL2_ttf -lSDL2_image
+gcc your_files.c BTN.c -o main -lSDL2 -lSDL2_ttf -lSDL2_image
 ```
 ## Usage
 1. Creating a button
